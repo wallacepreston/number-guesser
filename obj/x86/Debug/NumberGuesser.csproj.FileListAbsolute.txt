@@ -1,0 +1,12 @@
+/Users/preston/fs/sr/cs-practice/NumberGuesser/bin/Debug/NumberGuesser.exe
+/Users/preston/fs/sr/cs-practice/NumberGuesser/bin/Debug/NumberGuesser.pdb
+/Users/preston/fs/sr/cs-practice/NumberGuesser/obj/x86/Debug/NumberGuesser.csprojAssemblyReference.cache
+/Users/preston/fs/sr/cs-practice/NumberGuesser/obj/x86/Debug/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/preston/fs/sr/cs-practice/NumberGuesser/obj/x86/Debug/NumberGuesser.exe
+/Users/preston/fs/sr/cs-practice/NumberGuesser/obj/x86/Debug/NumberGuesser.pdb
+/Users/preston/fs/sr/cs-practice/number-guesser/bin/Debug/NumberGuesser.exe
+/Users/preston/fs/sr/cs-practice/number-guesser/bin/Debug/NumberGuesser.pdb
+/Users/preston/fs/sr/cs-practice/number-guesser/obj/x86/Debug/NumberGuesser.csprojAssemblyReference.cache
+/Users/preston/fs/sr/cs-practice/number-guesser/obj/x86/Debug/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/preston/fs/sr/cs-practice/number-guesser/obj/x86/Debug/NumberGuesser.exe
+/Users/preston/fs/sr/cs-practice/number-guesser/obj/x86/Debug/NumberGuesser.pdb
